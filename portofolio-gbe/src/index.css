@@ -43,7 +43,7 @@ body{
     background-image: url(../src/assets/texture.png);
 }
 
-/* ====================GENERAL STYLES ====================== */
+/* ======================GENERAL STYLES ======================== */
 
 .container{
     width: var(--container-width-lg);

@@ -28,6 +28,10 @@ We import a google font and put at the top of our index.css file
 
 N.B : All the components are going to be write in a section tag
 
+N.B : .container container_div create <div className="container container_div"></div>
+
+We can create many component in one folder
+
 Then in the App.jsx file
 we will import all the component in order 
 Ctrl+w : Permit to close all the file open in vscode
@@ -35,3 +39,5 @@ Ctrl+w : Permit to close all the file open in vscode
 Link of the font use : https://fonts.google.com/specimen/Poppins?query=popp
 
 Link to find background texture : https://www.transparenttextures.com/
+
+

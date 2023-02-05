@@ -7,6 +7,8 @@ To create a new projetc in react we have to first create a folder then enter on 
 extensions:
 ext install dsznajder.es7-react-js-snippets
 
+React icons we have to install it and then go to the website to choose the one we want
+
 
 To generate the following code in app.jsx we can write rafce :
     import React from 'react'

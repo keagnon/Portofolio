@@ -44,7 +44,7 @@ header{
    /* padding: 5rem 1.5rem 1.5rem 1.5rem;*/
 }
 .me img {
-    width: 30rem;
+    width: 25rem;
  
 }
 
@@ -59,3 +59,28 @@ header{
     font-size: 0.9rem;
 }
 
+
+
+/*============================== MEDIA QUERIES (MEDIUM DEVICES LIKE TABLETS) ============================*/
+@media screen  and (max-width:1024px) {
+    header{
+        height: 65vh;
+    }
+}
+
+/*============================== MEDIA QUERIES (SMALL DEVICES LIKE PHONES) ============================*/
+@media screen  and (max-width:655px) {
+   header{
+    height: 100vh;
+   }
+   .scroll_down,.header_socials{
+    display: none;
+   }
+   .me img {
+    width: 20rem;
+    }
+    .me{
+        margin-left: 0;
+    }
+    
+}
